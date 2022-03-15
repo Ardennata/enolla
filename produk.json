@@ -1,0 +1,15 @@
+[
+  {
+    "nama": "Lovers",
+    "deskripsi": "Baju yang akan membuat kalian nyaman",
+    "harga": 100000,
+    "gambar": "img/fashion.jpg",
+    "link": "details.php"
+  },
+  {
+    "nama": "fashion",
+    "deskripsi": "design bajunya sangat bagus dan cocok untuk berpergian",
+    "harga": 200000,
+    "gambar": "img/gambar3.jpg"
+  }
+]
